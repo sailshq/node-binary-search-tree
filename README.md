@@ -1,3 +1,6 @@
+>A fork of `node-binary-tree` 0.2.x with upgraded dependencies from the Sails core team.
+
+
 # Binary search trees for Node.js
 
 **Note: this module is not actively maintained bar for bug fixes. Its primary use is within NeDB and I do not plan on adding any new features.**
@@ -6,10 +9,10 @@ Two implementations of binary search tree: <a href="http://en.wikipedia.org/wiki
 
 
 ## Installation and tests
-Package name is `binary-search-tree`.
+Package name is `@sailshq/binary-search-tree`.
 
 ```bash
-npm install binary-search-tree --save
+npm install @sailshq/binary-search-tree --save
 
 make test
 ```

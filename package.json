@@ -1,24 +1,23 @@
 {
-  "name": "binary-search-tree",
+  "name": "@sailshq/binary-search-tree",
   "version": "0.2.6",
   "author": {
     "name": "Louis Chatriot",
     "email": "louis.chatriot@gmail.com"
   },
-  "description": "Different binary search tree implementations, including a self-balancing one (AVL)",
+  "description": "A fork of `node-binary-tree` 0.2.x with upgraded dependencies from the Sails core team.",
   "keywords": [
     "AVL tree",
     "binary search tree",
     "self-balancing",
     "AVL tree"
   ],
-  "homepage": "https://github.com/louischatriot/node-binary-search-tree",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/node-binary-search-tree.git"
+    "url": "git://github.com/louischatriot/node-binary-search-tree.git"
   },
   "dependencies": {
-    "underscore": "~1.4.4"
+    "underscore": "1.13.1"
   },
   "devDependencies": {
     "chai": "1.0.x",
