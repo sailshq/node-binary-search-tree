@@ -5,7 +5,7 @@
     "name": "Louis Chatriot",
     "email": "louis.chatriot@gmail.com"
   },
-  "description": "A fork of `node-binary-tree` 0.2.x with upgraded dependencies from the Sails core team.",
+  "description": "A fork of `binary-search-tree` 0.2.x with upgraded dependencies from the Sails core team.",
   "keywords": [
     "AVL tree",
     "binary search tree",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/louischatriot/node-binary-search-tree.git"
+    "url": "git://github.com/sailshq/node-binary-search-tree.git"
   },
   "dependencies": {
     "underscore": "1.13.1"

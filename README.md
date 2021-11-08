@@ -1,3 +1,5 @@
+# @sailshq/binary-search-tree
+
 >A fork of `node-binary-tree` 0.2.x with upgraded dependencies from the Sails core team.
 
 
