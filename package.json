@@ -17,7 +17,7 @@
     "url": "git://github.com/sailshq/node-binary-search-tree.git"
   },
   "dependencies": {
-    "underscore": "1.13.1"
+    "underscore": "1.13.8"
   },
   "devDependencies": {
     "chai": "1.0.x",
